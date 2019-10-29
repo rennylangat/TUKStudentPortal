@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TUK-student portal</string>
+    <string name="action_settings">Exit</string>
+    <string name="action_about">About Us</string>
+</resources>
